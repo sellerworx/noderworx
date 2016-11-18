@@ -13,9 +13,17 @@
     "marketplace"
   ],
   "author": "Vinay",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "request": "^2.78.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sellerworx/noderworx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sellerworx/noderworx/issues"
+  },
+  "homepage": "https://github.com/sellerworx/noderworx#readme"
 }
