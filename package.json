@@ -1,0 +1,21 @@
+{
+  "name": "noderworx",
+  "version": "0.0.1",
+  "description": "Node.js Client for Sellerworx APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sellerworx",
+    "amazon",
+    "flipkart",
+    "marketplace"
+  ],
+  "author": "Vinay",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.78.0"
+  },
+  "devDependencies": {}
+}
